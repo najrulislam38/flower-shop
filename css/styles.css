@@ -1,0 +1,59 @@
+/* =========common css starts======= */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-size: 16px;
+    font-family: 'Raleway', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+
+.container{
+    width: 1140px;
+    margin: 0px auto;
+}
+
+.primary-btn{
+    padding: 15px 25px;
+    background-color: #E55473;
+    color: #fff;
+    font-size: 18px;
+    border: none;
+    border-radius: 5px;
+}
+
+/* =========common css ends======= */
+
+
+/* =========header area css starts======= */
+#header{
+    width: 100vw;
+    height: 100vh;
+    background-color: #FCEEF1;
+}
+
+.banner-area{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.banner-main-title{
+    font-size: 65px;
+    font-weight: 700;
+}
+
+.banner-description{
+    color: rgb(146, 146, 146);
+    line-height: 1.5;
+    margin: 20px 0;
+}
+
+.banner-flower-image img{
+    width: 500px;
+}
+/* =========header area css ends======= */
