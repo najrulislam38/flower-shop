@@ -16,6 +16,10 @@ body{
     margin: 0px auto;
 }
 
+main .container{
+    margin: 55px auto;
+}
+
 .primary-btn{
     padding: 15px 25px;
     background-color: #E55473;
@@ -23,6 +27,12 @@ body{
     font-size: 18px;
     border: none;
     border-radius: 5px;
+}
+
+p{
+    color: rgb(146, 146, 146);
+    line-height: 1.6;
+    margin: 30px 0;
 }
 
 /* =========common css ends======= */
@@ -33,27 +43,23 @@ body{
     width: 100vw;
     height: 100vh;
     background-color: #FCEEF1;
+    
 }
 
 .banner-area{
     width: 100%;
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
     align-items: center;
 }
 
 .banner-main-title{
     font-size: 65px;
     font-weight: 700;
-}
-
-.banner-description{
-    color: rgb(146, 146, 146);
-    line-height: 1.5;
-    margin: 20px 0;
+    color: #272727;
 }
 
 .banner-flower-image img{
-    width: 500px;
+    width: 503px;
 }
 /* =========header area css ends======= */
