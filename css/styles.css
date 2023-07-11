@@ -1,4 +1,4 @@
-/* =========common css starts======= */
+/* =========common css start======= */
 *{
     margin: 0;
     padding: 0;
@@ -39,10 +39,10 @@ p{
     margin: 25px 0;
 }
 
-/* =========common css ends======= */
+/* =========common css end======= */
 
 
-/* =========header area css starts======= */
+/* =========header area css start ======= */
 #header{
     width: 100vw;
     background-color: #FCEEF1;
@@ -66,9 +66,9 @@ p{
     width: 500px;
     padding-top: 60px;
 }
-/* =========header area css ends======= */
+/* =========header area css end======= */
 
-/* =========features area css starts======= */
+/* =========features area css start======= */
 #our-features{
     width: 100vw;
 }
@@ -134,10 +134,10 @@ p{
     color: #272727;
 }
 
-/* =========features area css ends======= */
+/* =========features area css end======= */
 
 
-/* =========support area css starts======= */
+/* =========support area css start======= */
 .support-area{
     background-color: #f2f2f2;
     border-radius: 5px;
@@ -163,10 +163,10 @@ p{
     margin: 15px;
     color: #505050;
 }
-/* =========support area css ends======= */
+/* =========support area css end======= */
 
 
-/* =========selling area css starts======= */
+/* =========selling area css start======= */
 #best-selling{
     width: 100vw;
 }
@@ -186,7 +186,7 @@ p{
 .selling-flower-details{
     width: 320px;
     text-align: center;
-    box-shadow: 1px 1px 50px 6px gray;
+    box-shadow: 5px 5px 35px gray;
     border-radius: 5px;
 }
 
