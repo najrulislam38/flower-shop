@@ -273,34 +273,60 @@ p{
 #latest-deals{
     width: 100vw;
     margin-bottom: 100px;
-   }
+}
    
-   .latest-deals-area{
-       background-image: url('../asset/images/Rectangle\ 9.png');
-       background-repeat: no-repeat;
-       background-position: center ;
-       background-size: cover;
-       border-radius: 5px;
-   }
+.latest-deals-area{
+    background-image: url('../asset/images/Rectangle\ 9.png');
+    background-repeat: no-repeat;
+    background-position: center ;
+    background-size: cover;
+    border-radius: 5px;
+}
    
-   .latest-deal-container{
-       padding: 100px 0;
-       width: 100%;
-   }
-   
-   .latest-deal-container form{
-       text-align: center;
-   }
-   
-   .latest-deal-container input[type="text"]{
-       width: 600px;
-       padding: 18px;
-       background-color: #fff;
-       border: none;
-       border-radius: 5px;
-       margin-right: 10px;
-       font-size: 16px;
-   }
-   
-   
-   /* ========= latest area css end======= */
+.latest-deal-container{
+    padding: 100px 0;
+    width: 100%;
+}
+
+.latest-deal-container form{
+    text-align: center;
+}
+
+.latest-deal-container input[type="text"]{
+    width: 600px;
+    padding: 18px;
+    background-color: #fff;
+    border: none;
+    border-radius: 5px;
+    margin-right: 10px;
+    font-size: 16px;
+}
+
+/* ========= latest area css end======= */
+
+
+
+/* ========= footer area css start======= */
+#footer{
+    width: 100vw;
+    background-color: #000000;
+    color: #fff;
+}
+
+.footer-content{
+    text-align: center;
+    padding: 100px 0;
+}
+
+.footer-title{
+    color: #FFF;
+}
+
+.footer-description{
+    font-size: 14px;
+}
+
+.footer-content small{
+    color: #7c7c7c;
+}
+/* ========= latest area css end======= */
