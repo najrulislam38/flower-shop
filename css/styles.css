@@ -27,6 +27,10 @@ main .container{
     font-size: 18px;
     border: none;
     border-radius: 5px;
+    cursor: pointer;
+}
+.primary-color{
+    color: #E55473;
 }
 
 p{
@@ -194,6 +198,7 @@ p{
 .selling-flower-details h5{
     font-size: 20px;
     margin-top: 20px;
+    color: #272727;
 }
 
 .selling-flower-details p{
@@ -203,3 +208,30 @@ p{
 /* =========selling area css ends======= */
 
 
+/* =========hot deal area css starts======= */
+#hot-deal{
+    width: 100vw;
+    background-color: #FDF6F8;
+}
+
+.hot-deal-container{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 60px 0px;
+}
+
+.hot-deal-content{
+    text-align: center;
+}
+
+.sign-up-btn a{
+    text-decoration: none;
+    color: #fff;
+}
+
+.hot-deal-image-area img{
+    width: 250px;
+}
+
+/* =========hot deal area css ends======= */
