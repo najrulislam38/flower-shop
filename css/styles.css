@@ -94,7 +94,6 @@ p{
 }
 
 .feature-image-wrapper {
-    background-color: #D9EFF0 ;
     width: 360px;
     height: 400px;
     display: flex;
@@ -102,7 +101,18 @@ p{
     justify-content: center;
     border-top-left-radius: 180px;
     border-top-right-radius: 180px;
-    
+}
+
+.features-image-area-1{
+    background-color: #D9EFF0 ;
+}
+
+.features-image-area-2{
+    background-color: #F1DDE7 ;
+}
+
+.features-image-area-3{
+    background-color: #E3EBDB ;
 }
 
 .feature-flower-image{
@@ -149,3 +159,45 @@ p{
     color: #505050;
 }
 /* =========support area css ends======= */
+
+
+/* =========selling area css starts======= */
+#best-selling{
+    width: 100vw;
+}
+
+.inner-selling-flower{
+    width: 100%;
+}
+
+.selling-flower-container{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.selling-flower-details{
+    width: 320px;
+    text-align: center;
+    box-shadow: 1px 1px 50px 6px gray;
+    border-radius: 5px;
+}
+
+.selling-flower-details img{
+    width: 220px;
+    height: 300px;
+    margin: 0 auto;
+}
+
+.selling-flower-details h5{
+    font-size: 20px;
+    margin-top: 20px;
+}
+
+.selling-flower-details p{
+    margin: 10px 0 20px;
+}
+
+/* =========selling area css ends======= */
