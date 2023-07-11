@@ -268,3 +268,39 @@ p{
 /* ========= instagram area css end======= */
 
 
+
+/* ========= latest area css end======= */
+#latest-deals{
+    width: 100vw;
+    margin-bottom: 100px;
+   }
+   
+   .latest-deals-area{
+       background-image: url('../asset/images/Rectangle\ 9.png');
+       background-repeat: no-repeat;
+       background-position: center ;
+       background-size: cover;
+       border-radius: 5px;
+   }
+   
+   .latest-deal-container{
+       padding: 100px 0;
+       width: 100%;
+   }
+   
+   .latest-deal-container form{
+       text-align: center;
+   }
+   
+   .latest-deal-container input[type="text"]{
+       width: 600px;
+       padding: 18px;
+       background-color: #fff;
+       border: none;
+       border-radius: 5px;
+       margin-right: 10px;
+       font-size: 16px;
+   }
+   
+   
+   /* ========= latest area css end======= */
