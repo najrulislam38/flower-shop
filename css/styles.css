@@ -235,4 +235,34 @@ p{
     width: 250px;
 }
 
-/* =========hot deal area css ends======= */
+/* =========hot deal area css end======= */
+
+
+
+/* ========= instagram area css start======= */
+#instagram{
+    width: 100vw;
+}
+
+.inner-instagram{
+    width: 100%;
+    padding-top: 30px;
+}
+.instagram-flower-container{
+    width: 100%;
+}
+
+.instagram-flower{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 30px;
+    width: 100%;
+}
+
+.instagram-flower-image{
+    width: 270px;
+    
+}
+
+/* ========= instagram area css end======= */
